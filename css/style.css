@@ -39,6 +39,11 @@
 	text-indent: -2em;
 }
 
+.icon {
+	margin-bottom: 5px;
+}
+
+
 body {
 	background-color: #292f38;
 	color: #ffffff;
