@@ -1,3 +1,9 @@
+body {
+	background-color: #292f38;
+	color: #ffffff;
+	font-size: 13pt;
+}
+
 .header {
 	text-align: center;
 	max-width: 600px;
@@ -27,4 +33,7 @@ a {
 
 p {
 	text-align: left;
+	font-family: "arial";
+	line-height: 1.75;
+	color: #ffffff;
 }
