@@ -117,3 +117,15 @@ p {
 .list a:hover {
 	font-weight: bold;
 }
+
+.blog {
+	font-size: 10pt;
+	text-align: left;
+	line-height: 1.25;
+}
+
+.blog img {
+	text-align: center;
+	border: 0px;
+	width: 100%;
+}
