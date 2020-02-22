@@ -106,3 +106,14 @@ p {
 	color: #ffffff;
 }
 
+.list {
+	left: 15px;
+	font-size: 10pt;
+	margin-bottom: 10px;
+}
+
+.list a:link,
+.list a:visited,
+.list a:hover {
+	font-weight: bold;
+}
