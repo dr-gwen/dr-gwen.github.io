@@ -129,3 +129,17 @@ p {
 	border: 0px;
 	width: 100%;
 }
+
+@media only screen and (max-width: 600px) {
+  body {
+    font-size: 16pt;
+  }
+
+  .blog {
+  	font-size: 16pt;
+  }
+
+  .list {
+  	font-size: 16pt;
+  }
+}
