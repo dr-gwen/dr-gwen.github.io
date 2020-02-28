@@ -142,4 +142,8 @@ p {
   .list {
   	font-size: 16pt;
   }
+
+  .header {
+  	font-size: 18pt;
+  }
 }
