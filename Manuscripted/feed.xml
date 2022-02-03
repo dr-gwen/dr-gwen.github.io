@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:rawvoice="http://www.rawvoice.com/rawvoiceRssModule/" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0">
+  <channel>
+    <title>Manuscripted</title>
+    <googleplay:author>Gwendolyn Rehrig</googleplay:author>
+    <rawvoice:rating>TV-G</rawvoice:rating>
+    <rawvoice:location>USA</rawvoice:location>
+    <rawvoice:frequency>Periodic</rawvoice:frequency>
+    <author>Gwendolyn Rehrig</author>
+    <itunes:author>Manuscripted</itunes:author>
+    <itunes:email>manuscriptedpod@gmail.com</itunes:email>
+    <itunes:category text="Science" />
+    <image>
+      <url>https://dr-gwen.github.io/podcast/img/icon.jpg</url>
+      <title>Manuscripted</title>
+      <link>https://dr-gwen.github.io/podcast/</link>
+    </image>
+    <itunes:owner>
+      <itunes:name>Manuscripted</itunes:name>
+      <itunes:email>manuscriptedpod@gmail.com</itunes:email>
+    </itunes:owner>
+    <itunes:keywords>science,scripted,research</itunes:keywords>
+    <copyright>Gwendolyn Rehrig 2021</copyright>
+    <description>Peer-reviewed Publications in Spoken Form</description>
+    <googleplay:image href="https://dr-gwen.github.io/podcast/img/icon.jpg" />
+    <language>en-us</language>
+    <itunes:explicit>no</itunes:explicit>
+    <pubDate>Tue, 16 Mar 2021 21:48:00 GMT</pubDate>
+    <link>https://dr-gwen.github.io/podcast/feed.xml</link>
+    <itunes:image href="https://dr-gwen.github.io/podcast/img/icon.jpg" />
+    <item>
+      <author>Gwendolyn Rehrig</author>
+      <itunes:author>Gwendolyn Rehrig</itunes:author>
+      <title>Introduction to Manuscripted</title>
+      <pubDate>Tue, 16 Mar 2021 21:48:00 GMT</pubDate>
+      <enclosure url="https://dr-gwen.github.io/podcast/audio/00-Manuscripted-Intro.mp3" type="audio/mpeg" length="943516" />
+      <itunes:duration>01:13</itunes:duration>
+      <guid isPermaLink="false">manuscripted00</guid>
+      <itunes:explicit>no</itunes:explicit>
+      <description>
+        <![CDATA[<html>
+A brief introduction to Manuscripted. 
+        <br /><br />
+<i>Transcript:</i> 
+        Welcome to Manuscripted, the podcast that... isn't really a podcast, in that it's not intended as entertainment, per se. Each episode is the spoken version of a peer-reviewed manuscript. The intention is to preserve as much of the manuscript as possible while presenting the material in a listenable format. Listenable does not mean entertaining: in keeping with the premise, each episode will be comprised entirely of read speech, and the content being read is technical in nature. It is not intended for a general audience. Indeed, the precise language that makes experimental work especially clear and replicable is often quite dry. So, listenable here specifically means that the work is being presented in auditory form with only minor changes. For example, in-text citations and statistics are omitted as these are tedious to rattle off in speech, and descriptions of the most important parts of each figure are included. The purpose of this disclaimer is not to dissuade anyone from listening, but only to make sure anyone who does decide to listen understands what they're getting into. You will find links to the published manuscript, as well as any publicly available supporting documents, if applicable, in the show notes for each episode. Thanks for listening and learning!
+        ]]>
+        </description>
+    </item>
+    <item>
+      <author>Gwendolyn Rehrig</author>
+      <itunes:author>Gwendolyn Rehrig</itunes:author>
+      <title>When scenes speak louder than words</title>
+      <pubDate>Tue, 16 Mar 2021 22:27:00 GMT</pubDate>
+      <enclosure url="https://dr-gwen.github.io/podcast/audio/01-Manuscripted-WhenScenesSpeakLouderThanWords.mp3" type="audio/mpeg" length="39657419" />
+      <itunes:duration>53:27</itunes:duration>
+      <guid isPermaLink="false">manuscripted01</guid>
+      <itunes:explicit>no</itunes:explicit>
+      <description>
+      <![CDATA[<html>
+      <h3>When scenes speak louder than words: Verbal encoding does not mediate the relationship between scene meaning and visual attention.</h3> <br />
+      Manuscript authors: Gwendolyn Rehrig, Taylor R. Hayes, John M. Henderson, and Fernanda Ferreira <br />
+      Read aloud by the first author.<br /><br />
+
+      Published manuscript: <a href="https://link.springer.com/article/10.3758/s13421-020-01050-4">https://link.springer.com/article/10.3758/s13421-020-01050-4</a><br />
+      &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
+              DOI: doi:10.3758/s13421-020-01050-4<br />
+      Preprint: <a href="https://psyarxiv.com/3h7au">https://psyarxiv.com/3h7au</a><br />
+      Supplemental material: <a href="https://osf.io/8mbyv/">https://osf.io/8mbyv/</a><br />
+      Citation: Rehrig, G., Hayes, T. R., Henderson, J. M., &amp; Ferreira, F. (2020). When scenes speak louder than words: Verbal encoding does not mediate the relationship between scene meaning and visual attention. <i>Memory &amp; Cognition, 48</i>(7), 1181-1195.
+      ]]>
+      </description>
+    </item>
+  </channel>
+</rss>
