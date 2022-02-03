@@ -11,9 +11,9 @@
     <itunes:email>manuscriptedpod@gmail.com</itunes:email>
     <itunes:category text="Science" />
     <image>
-      <url>https://dr-gwen.github.io/podcast/img/icon.jpg</url>
+      <url>https://dr-gwen.github.io/Manuscripted/img/icon.jpg</url>
       <title>Manuscripted</title>
-      <link>https://dr-gwen.github.io/podcast/</link>
+      <link>https://dr-gwen.github.io/Manuscripted/</link>
     </image>
     <itunes:owner>
       <itunes:name>Manuscripted</itunes:name>
@@ -22,18 +22,18 @@
     <itunes:keywords>science,scripted,research</itunes:keywords>
     <copyright>Gwendolyn Rehrig 2021</copyright>
     <description>Peer-reviewed Publications in Spoken Form</description>
-    <googleplay:image href="https://dr-gwen.github.io/podcast/img/icon.jpg" />
+    <googleplay:image href="https://dr-gwen.github.io/Manuscripted/img/icon.jpg" />
     <language>en-us</language>
     <itunes:explicit>no</itunes:explicit>
     <pubDate>Tue, 16 Mar 2021 21:48:00 GMT</pubDate>
-    <link>https://dr-gwen.github.io/podcast/feed.xml</link>
-    <itunes:image href="https://dr-gwen.github.io/podcast/img/icon.jpg" />
+    <link>https://dr-gwen.github.io/Manuscripted/feed.xml</link>
+    <itunes:image href="https://dr-gwen.github.io/Manuscripted/img/icon.jpg" />
     <item>
       <author>Gwendolyn Rehrig</author>
       <itunes:author>Gwendolyn Rehrig</itunes:author>
       <title>Introduction to Manuscripted</title>
       <pubDate>Tue, 16 Mar 2021 21:48:00 GMT</pubDate>
-      <enclosure url="https://dr-gwen.github.io/podcast/audio/00-Manuscripted-Intro.mp3" type="audio/mpeg" length="943516" />
+      <enclosure url="https://dr-gwen.github.io/Manuscripted/audio/00-Manuscripted-Intro.mp3" type="audio/mpeg" length="943516" />
       <itunes:duration>01:13</itunes:duration>
       <guid isPermaLink="false">manuscripted00</guid>
       <itunes:explicit>no</itunes:explicit>
@@ -51,7 +51,7 @@ A brief introduction to Manuscripted.
       <itunes:author>Gwendolyn Rehrig</itunes:author>
       <title>When scenes speak louder than words</title>
       <pubDate>Tue, 16 Mar 2021 22:27:00 GMT</pubDate>
-      <enclosure url="https://dr-gwen.github.io/podcast/audio/01-Manuscripted-WhenScenesSpeakLouderThanWords.mp3" type="audio/mpeg" length="39657419" />
+      <enclosure url="https://dr-gwen.github.io/Manuscripted/audio/01-Manuscripted-WhenScenesSpeakLouderThanWords.mp3" type="audio/mpeg" length="39657419" />
       <itunes:duration>53:27</itunes:duration>
       <guid isPermaLink="false">manuscripted01</guid>
       <itunes:explicit>no</itunes:explicit>
