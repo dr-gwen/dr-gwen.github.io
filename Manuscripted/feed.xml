@@ -47,8 +47,8 @@ A brief introduction to Manuscripted.
         </description>
     </item>
     <item>
-      <author>Gwendolyn Rehrig</author>
-      <itunes:author>Gwendolyn Rehrig</itunes:author>
+      <author>Gwendolyn Rehrig et al.</author>
+      <itunes:author>Gwendolyn Rehrig et al.</itunes:author>
       <title>When scenes speak louder than words</title>
       <pubDate>Tue, 16 Mar 2021 22:27:00 GMT</pubDate>
       <enclosure url="https://dr-gwen.github.io/Manuscripted/audio/01-Manuscripted-WhenScenesSpeakLouderThanWords-Re-recorded.mp3" type="audio/mpeg" length="43139072" />
@@ -99,6 +99,33 @@ A brief introduction to Manuscripted.
       </description>
     </item>
 
+    <item>
+      <author>Jon Henner and Octavian Robinson</author>
+      <itunes:author>Jon Henner and Octavian Robinson</itunes:author>
+      <title>Unsettling Languages, Unruly Bodyminds: Imaging a Crip Linguistics</title>
+      <pubDate>Sun, 27 Feb 2022 10:00:00 PDT</pubDate>
+      <enclosure url="https://dr-gwen.github.io/Manuscripted/audio/03-Manuscripted-CripLing.mp3" type="audio/mpeg" length="76263424" />
+      <itunes:duration>01:36:10</itunes:duration>
+      <guid isPermaLink="false">manuscripted03</guid>
+      <itunes:explicit>no</itunes:explicit>
+      <description>
+      <![CDATA[<html>
+      <h3>Unsettling Languages, Unruly Bodyminds: Imaging a Crip Linguistics.</h3> <br />
+      Manuscript author: Jon Henner, Octavian Robinson <br />
+      Read aloud by Mx. Vasundhara Gautam.<br /><br />
+
+      <b>Abstract</b>
+      <br /><br />
+      People use languages in different ways. Some people use language to help find other people like them. Many people use language in specific ways because of how their body and mind work. Sometimes a person’s environment and material conditions forces them to use language in a certain way. However, when someone languages outside of what people think is normal, others can think that they are bad with language or are not as smart or are broken. We are trying to point out that no one is actually ‘bad with language.’ Our goal with this paper is to help people understand that no language is bad. It is okay to want to change your own language use if it will make you feel better. But no one should make you feel bad about your language. We need a bigger and more flexible understanding of what language is and what it communicates about a bodymind’s capacity.
+
+      Manuscript link: <a href="https://psyarxiv.com/7bzaw">https://psyarxiv.com/7bzaw</a><br />
+      &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
+              
+      Citation:  Henner, J., & Robinson, O. (2021). Unsettling Languages, Unruly Bodyminds: Imaging a Crip Linguistics. https://doi.org/10.31234/osf.io/7bzaw<br />
+      Social media: The authors can be found on Twitter at <a href="https://twitter.com/jmhenner">@jmhenner/</a> and <a href="https://twitter.com/DeafHistorian/">@DeafHistorian</a>. Read by <a href="https://twitter.com/VasundharaNLP">@VasundharaNLP</a> on Twitter.
+      ]]>
+      </description>
+    </item>
 
   </channel>
 </rss>
