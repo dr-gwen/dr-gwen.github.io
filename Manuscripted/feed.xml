@@ -155,5 +155,32 @@ A brief introduction to Manuscripted.
       </description>
     </item>
 
+    <item>
+      <author>Gwendolyn Rehrig et al.</author>
+      <itunes:author>Gwendolyn Rehrig et al.</itunes:author>
+      <title>When more is more: Redundant modifiers can facilitate visual search</title>
+      <pubDate>Thu, 16 Jun 2022 10:00:00 PDT</pubDate>
+      <enclosure url="https://dr-gwen.github.io/Manuscripted/audio/05-Manuscripted-WhenMoreIsMore.mp3" type="audio/mpeg" length="52682752" />
+      <itunes:duration>01:02:55</itunes:duration>
+      <guid isPermaLink="false">manuscripted05</guid>
+      <itunes:explicit>no</itunes:explicit>
+      <description>
+      <![CDATA[<html>
+      <h3><i>When more is more: Redundant modifiers can facilitate visual search</h3> <br />
+      Manuscript authors: Gwendolyn Rehrig, Reese A. Cullimore, John M. Henderson, & Fernanda Ferreira<br /><br />
+
+      <b>Abstract</b>
+      <br /><br />
+      According to the Gricean Maxim of Quantity, speakers provide the amount of information listeners require to correctly interpret an utterance, and no more (Grice in Logic and conversation, 1975). However, speakers do tend to violate the Maxim of Quantity often, especially when the redundant information improves reference precision (Degen et al. in Psychol Rev 127(4):591–621, 2020). Redundant (non-contrastive) information may facilitate real-world search if it narrows the spatial scope under consideration, or improves target template specificity. The current study investigated whether non-contrastive modifiers that improve reference precision facilitate visual search in real-world scenes. In two visual search experiments, we compared search performance when perceptually relevant, but non-contrastive modifiers were included in the search instruction. Participants (NExp.1=48, NExp.2=48) searched for a unique target object following a search instruction that contained either no modifier, a location modifier (Experiment 1: on the top left, Experiment 2: on the shelf), or a color modifier (the black lamp). In Experiment 1 only, the target was located faster when the verbal instruction included either modifier, and there was an overall benefit of color modifiers in a combined analysis for scenes and conditions common to both experiments. The results suggest that violations of the Maxim of Quantity can facilitate search when the violations include task-relevant information that either augments the target template or constrains the search space, and when at least one modifier provides a highly reliable cue. Consistent with Degen et al. (2020), we conclude that listeners benefit from non-contrastive information that improves reference precision, and engage in rational reference comprehension.
+
+      Manuscript link: <a href="https://cognitiveresearchjournal.springeropen.com/articles/10.1186/s41235-021-00275-4">cognitiveresearchjournal.springeropen.com/articles/10.1186/s41235-021-00275-4</a><br />
+      &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
+              
+      Citation: Rehrig, G., Cullimore, R.A., Henderson, J.M. & Ferreira, F. (2021). When more is more: redundant modifiers can facilitate visual search. <i>Cogn. Research 6,</i> 10. https://doi.org/10.1186/s41235-021-00275-4<br />
+      Social media: The author can be found on Twitter at <a href="https://twitter.com/colorlessgrey">@colorlessgrey</a>.
+      ]]>
+      </description>
+    </item>
+
   </channel>
 </rss>
